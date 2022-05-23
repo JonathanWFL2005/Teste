@@ -1,4 +1,4 @@
 # Teste
-Um exemplo de como usar o git.
+Um exemplo de como usar o git
 - 1 item
 - 2 item 
